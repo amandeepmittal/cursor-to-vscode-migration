@@ -1,0 +1,9 @@
+{
+  "name": "cursor-to-vscode-migration",
+  "version": "1.0.0",
+  "description": "Migrate your editor setup from Cursor to VS Code - settings, keybindings, and extensions",
+  "author": {
+    "name": "Aman Mittal",
+    "email": "amanmittal.work@gmail.com"
+  }
+}

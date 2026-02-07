@@ -1,0 +1,140 @@
+# ------------------------------
+# OS-generated files
+# ------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# ------------------------------
+# Editor / IDE state
+# ------------------------------
+.idea/
+.cursor/
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# Logs
+# ------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ------------------------------
+# Environment and local config
+# ------------------------------
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local
+
+# ------------------------------
+# Dependencies
+# ------------------------------
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.bun/
+
+# ------------------------------
+# Build output and caches
+# ------------------------------
+dist/
+build/
+out/
+tmp/
+temp/
+.cache/
+.cache-loader/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.turbo/
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# ------------------------------
+# Test and coverage artifacts
+# ------------------------------
+coverage/
+.nyc_output/
+junit.xml
+
+# ------------------------------
+# Python artifacts
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyc.*
+*.pyo
+*.pyd
+.python-version
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# ------------------------------
+# JVM / Java / Kotlin artifacts
+# ------------------------------
+.gradle/
+*.class
+target/
+
+# ------------------------------
+# Go / Rust artifacts
+# ------------------------------
+bin/
+.coverprofile
+
+# ------------------------------
+# Archives
+# ------------------------------
+*.7z
+*.gz
+*.zip
+*.tar
+*.tgz
+*.bz2
+*.rar
+
+# ------------------------------
+# Runtime files
+# ------------------------------
+*.pid
+*.pid.lock
+*.seed
