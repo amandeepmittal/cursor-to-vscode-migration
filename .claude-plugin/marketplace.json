@@ -1,0 +1,17 @@
+{
+  "name": "amandeepmittal-cursor-to-vscode-migration",
+  "owner": {
+    "name": "Aman Mittal",
+    "email": "amanmittal.work@gmail.com"
+  },
+  "metadata": {
+    "description": "Migrate your editor setup from Cursor to VS Code"
+  },
+  "plugins": [
+    {
+      "name": "cursor-to-vscode-migration",
+      "source": "./skills/cursor-to-vscode-migration",
+      "description": "Migrate your editor setup from Cursor to VS Code - settings, keybindings, and extensions"
+    }
+  ]
+}
